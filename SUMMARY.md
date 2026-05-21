@@ -40,7 +40,7 @@
 * [Radio, Códigos y QRR](carabineros-de-alokados/radio-codigos-y-qrr.md)
 * [Servicio, Equipamiento y Procedimientos](carabineros-de-alokados/servicio-equipamiento-y-procedimientos.md)
 * [Detenciones, Denuncias y Registro](carabineros-de-alokados/detenciones-denuncias-y-registro.md)
-* [Uso de la Fuerza, Negociaciones y Persecuciones](carabineros-de-alokados/uso-de-la-fuerza-negociaciones-y-persecuciones.md)
+* [Uso de la Fuerza, Negociaciones y Persecuciones](carabineros-de-alokados-policia/uso-de-la-fuerza-negociaciones-y-persecuciones.md)
 * [BDI — Brigada de Investigaciones](carabineros-de-alokados/bdi.md)
 
 ## EMS (Servicios Médicos)
