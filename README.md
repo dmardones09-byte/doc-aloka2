@@ -210,18 +210,3 @@ Observa, conoce gente y deja que el rol crezca de forma natural.
 
 * Lee [Conceptos de Rol](conceptos-de-rol..md)
 * Luego revisa [Normativa General](normativa-general..md)
-
-### Estilo GitBook (tema morado)
-
-Si quieres aplicar el tema morado desde este repositorio tienes dos opciones:
-
-- GitBook.com (hosted): ve a Settings → Styles y pega el contenido de `styles/website.css` en "Custom styles" o súbelo como archivo CSS.
-- Publicación desde repo (GitBook CLI / legacy): este repo incluye `book.json` que referencia `styles/website.css`. Para generar localmente:
-
-```bash
-npm install -g gitbook-cli
-gitbook install
-gitbook build .
-```
-
-El CSS añadido modifica colores principales, encabezados y botones para un look morado "callejero". Si quieres ajustes (más oscuro, más saturado o versión light), dímelo y lo adapto.
