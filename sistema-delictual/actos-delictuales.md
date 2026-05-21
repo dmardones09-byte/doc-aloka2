@@ -259,7 +259,6 @@ Algunos robos requieren progresión por etapas.
 * **Tirador:** máximo 1.
 * **Refuerzo policial:** máximo 1, después de **20 minutos** de tiroteo.
 * **Rehén:** máximo 3.
-* El rehén de cajero solo es válido si no existe otro rehén.
 * **Negociación:** máximo **10 minutos**.
 * Es obligatorio usar arma de fuego.
 * No se puede iniciar con armas blancas.
