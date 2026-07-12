@@ -13,7 +13,7 @@ Este criterio ya fue integrado en [Actos Delictuales](../actos-delictuales.md).
 
 ### Antes de iniciar
 
-Debes tener plan, salida, número razonable de participantes y objetivo claro.
+Debes tener plan, salida, número razonable de participantes, objetivo claro y contar con policias necesarios.
 
 ### Evalúa
 

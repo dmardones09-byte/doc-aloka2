@@ -19,7 +19,7 @@ Se entiende como **zona segura** todo lugar donde no se pueden realizar actos de
 * vender drogas.
 * iniciar roles agresivos para romper la seguridad del área.
 
-El incumplimiento de esta norma conlleva sanción según la falta cometida.
+El incumplimiento de esta norma conlleva **sanción comunitaria** según la falta cometida.
 
 ### Criterio de uso
 
@@ -27,7 +27,7 @@ Las zonas seguras son espacios de recreación y convivencia.
 
 Por eso se limita al máximo el rol agresivo dentro de ellas.
 
-Si un asalto o secuestro comienza **fuera** de zona segura, el rol debe continuar aunque la víctima entre al perímetro para evadirlo.
+Si un asalto o secuestro **comienza fuera de zona segura, el rol debe continuar** aunque la víctima entre al perímetro para evadirlo.
 
 Cada zona segura tiene un perímetro propio.
 

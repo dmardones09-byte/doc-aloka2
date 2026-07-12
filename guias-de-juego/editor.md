@@ -12,8 +12,11 @@ icon: terminal
 * `/me` describe una acción visible.
 * `/do` aporta contexto o resultado lógico.
 * `/entorno` informa a servicios públicos o staff del entorno.
-* `/forzar` se usa solo cuando la escena lo permite.
 * `/id` ayuda a identificar jugadores cercanos.
+* `/same` va un nps al lugar para atenderlo.
+* `/auxilio` va un samu a auxiliarlo.
+* `/fps` ayuda para el rendimiento del juego.
+* `/habilidades` abre una ventada de abilidades (Conducción, Puntería, Resistencia, Fuerza,acrobacias, oxigenación)
 
 ### Buen uso
 
