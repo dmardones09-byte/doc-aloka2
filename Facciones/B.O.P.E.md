@@ -24,6 +24,6 @@ Los procedimientos y acceso a información sensible siguen la normativa interna 
 
 ## Documentación relacionada
 
-* [Normativa Interna Carabineros de Alokados](Policia de la cuidad.md)
+* [Normativa Interna Carabineros de Alokados](normativa-interna-lspd.md)
 * [Detenciones, Denuncias y Registro](detenciones-denuncias-y-registro.md)
 * [Uso de la Fuerza, Negociaciones y Persecuciones](uso-de-la-fuerza-negociaciones-y-persecuciones.md)

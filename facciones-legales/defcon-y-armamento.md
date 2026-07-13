@@ -66,5 +66,5 @@ Un entorno incompleto puede invalidar criterio, escalada o equipamiento usado.
 
 ### Relación con otras guías
 
-* [Carabineros de Alokados - General](../Facciones/lspd-general.md)
+* [Carabineros de Alokados - General](../carabineros-de-alokados/lspd-general.md)
 * [Actos Delictuales](../sistema-delictual/actos-delictuales.md)
