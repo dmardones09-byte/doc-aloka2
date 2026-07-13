@@ -32,16 +32,16 @@
 * [DEFCON y Armamento](facciones-legales/defcon-y-armamento.md)
 * [EMS (Servicios Médicos)](https://app.gitbook.com/s/9naHHSkzPSfK0Dc3CSkf/ems-servicios-medicos)
 
-## Carabineros de Alokados (Policía)
+## Facciones (Policía)
 
-* [Carabineros de Alokados - General](carabineros-de-alokados/lspd-general.md)
+* [Facciones - General](Facciones/Policia de la cuidad.md)
 * [Normativa Interna Carabineros de Alokados](carabineros-de-alokados/normativa-interna-lspd.md)
 * [Jerarquía, Divisiones y Presentación](carabineros-de-alokados/jerarquia-divisiones-y-presentacion.md)
 * [Radio, Códigos y QRR](carabineros-de-alokados/radio-codigos-y-qrr.md)
 * [Servicio, Equipamiento y Procedimientos](carabineros-de-alokados/servicio-equipamiento-y-procedimientos.md)
 * [Detenciones, Denuncias y Registro](carabineros-de-alokados/detenciones-denuncias-y-registro.md)
 * [Uso de la Fuerza, Negociaciones y Persecuciones](carabineros-de-alokados-policia/uso-de-la-fuerza-negociaciones-y-persecuciones.md)
-* [BDI — Brigada de Investigaciones](carabineros-de-alokados/bdi.md)
+* [B.O.P.E — Brigada de Operaciones Policiales Espesiales](Facciones/B.O.P.E.md)
 
 ## EMS (Servicios Médicos)
 
