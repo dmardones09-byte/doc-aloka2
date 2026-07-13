@@ -74,7 +74,7 @@ Entra a la frecuencia asignada y espera instrucciones si no tienes patrulla.
 #### 3. Procedimientos críticos
 
 * [Detenciones, Denuncias y Registro](detenciones-denuncias-y-registro.md)
-* [Uso de la Fuerza, Negociaciones y Persecuciones](../carabineros-de-alokados-policia/uso-de-la-fuerza-negociaciones-y-persecuciones.md)
+* [Uso de la Fuerza, Negociaciones y Persecuciones](uso-de-la-fuerza-negociaciones-y-persecuciones.md)
 
 ### Guías relacionadas
 

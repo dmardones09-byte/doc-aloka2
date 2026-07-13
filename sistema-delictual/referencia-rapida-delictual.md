@@ -82,7 +82,7 @@ Incluye:
 ### Si buscas reglas de respuesta policial
 
 * [DEFCON y Armamento](../facciones-legales/defcon-y-armamento.md)
-* [Uso de la Fuerza, Negociaciones y Persecuciones](../carabineros-de-alokados-policia/uso-de-la-fuerza-negociaciones-y-persecuciones.md)
+* [Uso de la Fuerza, Negociaciones y Persecuciones](../Facciones/uso-de-la-fuerza-negociaciones-y-persecuciones.md)
 
 ### Si buscas anexos o temas específicos antiguos
 
