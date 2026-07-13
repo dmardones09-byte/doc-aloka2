@@ -13,6 +13,13 @@ Aplica a todo miembro de Carabineros de Alokado2 dentro y fuera de servicio.
 La base de la facción es la disciplina, la confidencialidad, el criterio y la seriedad institucional.
 {% endhint %}
 
+### Documentación relacionada
+
+- [Policía de la Ciudad](lspd-general.md)
+- [Jerarquía, Divisiones y Presentación](jerarquia-divisiones-y-presentacion.md)
+- [Radio, Códigos y QRR](radio-codigos-y-qrr.md)
+- [Servicio, Equipamiento y Procedimientos](servicio-equipamiento-y-procedimientos.md)
+
 ### Perfil esperado
 
 Carabineros de Alokado2 exige integridad, autocontrol, responsabilidad y vocación de servicio. También exige buen criterio, trabajo en equipo y una interpretación sólida bajo presión.
