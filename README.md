@@ -86,9 +86,9 @@ Revisa [Sistema de Sanciones](importante/sistema-de-sanciones.md) y actúa con c
 
 <summary><strong>Ver más secciones</strong></summary>
 
-#### Carabineros de Alokados
+#### FACCIONES 
 
-* [ Policia general - General](Facciones/Policia de la cuidad.md)
+* [Facciones](Facciones/Policia de la cuidad.md)
 * [Normativa Interna Policia de Aloka2](carabineros-de-alokados/normativa-interna-lspd.md)
 * [Jerarquía, Divisiones y Presentación](carabineros-de-alokados/jerarquia-divisiones-y-presentacion.md)
 * [Radio, Códigos y QRR](carabineros-de-alokados/radio-codigos-y-qrr.md)
