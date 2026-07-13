@@ -37,7 +37,7 @@ Revisa [Sistema de Sanciones](importante/sistema-de-sanciones.md) y actúa con c
 {% endstep %}
 {% endstepper %}
 
-### Identidad del servidor Aloka2 RP V2
+### Identidad del servidor Aloka2 RP 
 
 * Rol semi-serio.
 * Interpretación coherente.
@@ -88,16 +88,15 @@ Revisa [Sistema de Sanciones](importante/sistema-de-sanciones.md) y actúa con c
 
 #### Carabineros de Alokados
 
-* [Carabineros de Alokados - General](carabineros-de-alokados/lspd-general.md)
-* [Normativa Interna Carabineros de Alokados](carabineros-de-alokados/normativa-interna-lspd.md)
+* [ Policia general - General](Facciones/Policia de la cuidad.md)
+* [Normativa Interna Policia de Aloka2](carabineros-de-alokados/normativa-interna-lspd.md)
 * [Jerarquía, Divisiones y Presentación](carabineros-de-alokados/jerarquia-divisiones-y-presentacion.md)
 * [Radio, Códigos y QRR](carabineros-de-alokados/radio-codigos-y-qrr.md)
 * [Servicio, Equipamiento y Procedimientos](carabineros-de-alokados/servicio-equipamiento-y-procedimientos.md)
 * [Detenciones, Denuncias y Registro](carabineros-de-alokados/detenciones-denuncias-y-registro.md)
 * [Uso de la Fuerza, Negociaciones y Persecuciones](carabineros-de-alokados/uso-de-la-fuerza-negociaciones-y-persecuciones.md)
 
-* [BDI — Brigada de Investigaciones](carabineros-de-alokados/bdi.md) (unidad de investigación policial)
-
+* [B.O.P.E — Brigada de Operaciones Policiales Espesiales](Facciones/B.O.P.E.md)
 #### EMS
 
 * [EMS General](ems-servicios-medicos/ems-general.md)

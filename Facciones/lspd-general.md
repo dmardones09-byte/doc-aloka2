@@ -3,19 +3,19 @@ description: Vista general de Carabineros de Alokados y acceso rápido a su norm
 icon: building-shield
 ---
 
-# Carabineros de Alokados - General
+# Policia de la ciudads - General
 
-## Carabineros de Alokados - General
+## Policia de la ciudad - General
 
 {% hint style="info" %}
-Esta sección reúne la normativa de Carabineros de Alokados por bloques.
+Esta sección reúne la normativa de Policia de la ciudad por bloques.
 
 Primero entiendes la base. Luego operas. Después resuelves escenas complejas.
 {% endhint %}
 
 ### Rol institucional
 
-Carabineros de Alokados resguarda el orden público y responde a incidentes diarios.
+Policia de la ciudad resguarda el orden público y responde a incidentes diarios.
 
 Su estándar base es disciplina, criterio, coordinación y control de escena.
 

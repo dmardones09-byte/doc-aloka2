@@ -3,19 +3,19 @@ description: Reglas OOC e IC, compatibilidades, sanciones y conducta institucion
 icon: scale-balanced
 ---
 
-# Normativa Interna Carabineros de Alokados
+# Normativa Interna Carabineros de Alokado2
 
-## Normativa Interna Carabineros de Alokados
+## Normativa Interna Carabineros de Alokado2
 
 {% hint style="info" %}
-Aplica a todo miembro de Carabineros de Alokados dentro y fuera de servicio.
+Aplica a todo miembro de Carabineros de Alokado2 dentro y fuera de servicio.
 
 La base es disciplina, confidencialidad y criterio.
 {% endhint %}
 
 ### Perfil esperado
 
-Carabineros de Alokados exige integridad, autocontrol y vocación de servicio.
+Carabineros de Alokado2 exige integridad, autocontrol y vocación de servicio.
 
 También exige buena comunicación, trabajo en equipo y criterio bajo presión.
 
