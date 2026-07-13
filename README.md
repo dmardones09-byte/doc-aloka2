@@ -2,10 +2,10 @@
 description: >-
   Te pedimos que leas nuestra normativa. Esta normativa es esencial para
   mantener un rol divertido para todos los usuarios. Esta bajo tu
-  responsabilidad estar al tanto de la normativa y sus actualizacio
+  responsabilidad estar al tanto de la normativa y sus actualizacio.
 ---
 
-# 🗽 aloka2 rp
+# 🗽 ALOKADO2 RP
 
 ***
 
