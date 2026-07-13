@@ -1,25 +1,43 @@
 ---
-description: Brigada de Operaciones Policiales Espesiales (B.O.P.E)
+description: Brigada de Operaciones Policiales Especiales (B.O.P.E)
 icon: search
 ---
 
 # B.O.P.E — Brigada de Operaciones Policiales Especiales
 
-## Propósito
+## Introducción
 
-La Brigada de Operaciones Policiales Especiales (B.O.P.E) se encarga de la seguridad del norte, la vigilancia de las fronteras y el apoyo operativo a la Policía de la Ciudad en casos complejos.
+La Brigada de Operaciones Policiales Especiales (B.O.P.E) es la unidad especializada encargada de responder a incidentes complejos, preservar la integridad de la escena y apoyar a la Policía de la Ciudad en operaciones de alto riesgo, investigación y coordinación.
+
+## Objetivo
+
+Su finalidad es garantizar un procedimiento ordenado, profesional y técnico en los casos que requieren un nivel superior de análisis, control y respuesta.
 
 ## Funciones principales
 
+### Operativas
+
 * Levantamiento y preservación de evidencia.
-* Análisis forense básico y coordinación con equipos especializados.
+* Coordinación con unidades tácticas en detenciones y operativos.
+* Apoyo en operaciones de alto riesgo y control de escena.
+
+### Investigativas
+
 * Investigación de delitos complejos y crimen organizado.
-* Coordinación con unidades tácticas para detenciones y operativos investigativos.
+* Análisis forense básico y coordinación con equipos especializados.
 * Mantenimiento de bases de datos e informes técnicos.
 
-## Requisitos y acceso
+## Requisitos de acceso y actuación
 
-La B.O.P.E suele requerir formación especializada y autorización de mando. Los procedimientos y el acceso a información sensible siguen la normativa interna de la Policía de la Ciudad.
+* Requiere formación especializada y autorización de mando.
+* El acceso a información sensible debe ajustarse a la normativa interna.
+* Su actuación debe respetar la disciplina, la confidencialidad y la cadena de mando.
+
+## Estructura de trabajo
+
+* Se prioriza la coordinación con la Policía de la Ciudad.
+* La información debe registrarse de forma clara y verificable.
+* Las decisiones operativas deben responder a criterio, legalidad y proporcionalidad.
 
 ## Documentación relacionada
 
