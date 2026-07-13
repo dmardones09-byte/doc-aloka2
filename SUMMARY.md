@@ -29,13 +29,14 @@
 ## Facciones (Policía)
 
 * [Policía de la Ciudad](Facciones/Policia%20de%20la%20cuidad.md)
+* [B.O.P.E — Brigada de Operaciones Policiales Espesiales](Facciones/B.O.P.E.md)
 * [Normativa Interna Carabineros de Alokados](Facciones/normativa-interna-carabineros-de-alokado2.md)
 * [Jerarquía, Divisiones y Presentación](Facciones/jerarquia-divisiones-y-presentacion.md)
 * [Radio, Códigos y QRR](Facciones/radio-codigos-y-qrr.md)
 * [Servicio, Equipamiento y Procedimientos](Facciones/servicio-equipamiento-y-procedimientos.md)
 * [Detenciones, Denuncias y Registro](Facciones/detenciones-denuncias-y-registro.md)
 * [Uso de la Fuerza, Negociaciones y Persecuciones](Facciones/uso-de-la-fuerza-negociaciones-y-persecuciones.md)
-* [B.O.P.E — Brigada de Operaciones Policiales Espesiales](Facciones/B.O.P.E.md)
+
 
 ## EMS (Servicios Médicos)
 
