@@ -35,11 +35,11 @@
 ## Facciones (Policía)
 
 * [Policia de la cuidad](https://app.gitbook.com/s/9naHHSkzPSfK0Dc3CSkf/lspd-policia)
-* [Normativa Interna Carabineros de Alokados](carabineros-de-alokados/normativa-interna-lspd.md)
-* [Jerarquía, Divisiones y Presentación](carabineros-de-alokados/jerarquia-divisiones-y-presentacion.md)
-* [Radio, Códigos y QRR](carabineros-de-alokados/radio-codigos-y-qrr.md)
-* [Servicio, Equipamiento y Procedimientos](carabineros-de-alokados/servicio-equipamiento-y-procedimientos.md)
-* [Detenciones, Denuncias y Registro](carabineros-de-alokados/detenciones-denuncias-y-registro.md)
+* [Normativa Interna Carabineros de Alokados](Facciones/Policia de la cuidad.md)
+* [Jerarquía, Divisiones y Presentación](Facciones/jerarquia-divisiones-y-presentacion.md)
+* [Radio, Códigos y QRR](Facciones/radio-codigos-y-qrr.md)
+* [Servicio, Equipamiento y Procedimientos](Facciones/servicio-equipamiento-y-procedimientos.md)
+* [Detenciones, Denuncias y Registro](Facciones/detenciones-denuncias-y-registro.md)
 * [Uso de la Fuerza, Negociaciones y Persecuciones](carabineros-de-alokados-policia/uso-de-la-fuerza-negociaciones-y-persecuciones.md)
 * [B.O.P.E — Brigada de Operaciones Policiales Espesiales](Facciones/B.O.P.E.md)
 

@@ -10,14 +10,12 @@ icon: scale-balanced
 {% hint style="info" %}
 Aplica a todo miembro de Carabineros de Alokado2 dentro y fuera de servicio.
 
-La base es disciplina, confidencialidad y criterio.
+La base de la facción es la disciplina, la confidencialidad, el criterio y la seriedad institucional.
 {% endhint %}
 
 ### Perfil esperado
 
-Carabineros de Alokado2 exige integridad, autocontrol y vocación de servicio.
-
-También exige buena comunicación, trabajo en equipo y criterio bajo presión.
+Carabineros de Alokado2 exige integridad, autocontrol, responsabilidad y vocación de servicio. También exige buen criterio, trabajo en equipo y una interpretación sólida bajo presión.
 
 ### Ingreso
 
@@ -31,9 +29,9 @@ Para postular debes:
 
 * Debes conocer y respetar la normativa general del servidor.
 * La corrupción está prohibida en cualquier contexto.
-* No puedes filtrar información interna de la facción.
+* No puedes filtrar información interna ni comprometer operaciones o investigaciones.
 * No puedes transferir armamento, munición o equipamiento institucional.
-* La toxicidad, el maltrato y los conflictos internos injustificados están prohibidos.
+* La toxicidad, el maltrato o los conflictos internos injustificados están prohibidos.
 * Debes mantener una interpretación policial sólida y coherente.
 * No puedes pertenecer a otra facción gubernamental con el mismo personaje.
 * No puedes forzar roles con otros personajes propios para beneficiar a Carabineros de Alokados.
@@ -45,30 +43,30 @@ Para postular debes:
 * El consumo de drogas está prohibido dentro y fuera de servicio.
 * No puedes presentarte bajo efectos de alcohol o drogas.
 * Debes mantener conducta profesional dentro y fuera del turno.
-* Todo acto que afecte la imagen institucional puede derivar en sanción grave.
+* Cualquier acto que afecte la imagen institucional puede derivar en sanción grave.
 
 ### Trabajo fuera de servicio
 
-Se permite trabajo externo si cumple estas condiciones:
+Se permite trabajo externo solo si cumple estas condiciones:
 
 * no interfiere con tus obligaciones en Carabineros de Alokados.
 * no tiene carácter ilegal.
 * no genera conflicto de interés.
 * no usa el cargo policial para beneficio personal.
 
-En actividades privadas solo puedes actuar como dueño o administrador.
+En actividades privadas solo puedes actuar como dueño, administrador o ciudadano, nunca como autoridad institucional.
 
 ### Sanciones
 
 #### Autoridad disciplinaria
 
-* El General Director define las sanciones o delega esa función.
+* El mando superior define las sanciones o delega esa función.
 * Puede aplicar advertencias, suspensiones o expulsiones.
 
 #### Derecho a apelación
 
 * Toda sanción puede apelarse.
-* La apelación debe resolverse en un máximo de **24 horas**.
+* La apelación debe resolverse en un máximo de 24 horas.
 
 #### Eliminación de faltas menores
 
@@ -90,4 +88,4 @@ La regla base es simple:
 * protege la información,
 * evita conflictos de interés,
 * cuida la imagen institucional,
-* actúa con disciplina.
+* actúa con disciplina y criterio.

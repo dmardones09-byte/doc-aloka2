@@ -88,15 +88,15 @@ Revisa [Sistema de Sanciones](importante/sistema-de-sanciones.md) y actúa con c
 
 #### FACCIONES 
 
-* [Policia-de-la-ciudad](Facciones/Policia de la cuidad.md)
-* [Normativa Interna Policia de Aloka2](carabineros-de-alokados/normativa-interna-lspd.md)
-* [Jerarquía, Divisiones y Presentación](carabineros-de-alokados/jerarquia-divisiones-y-presentacion.md)
-* [Radio, Códigos y QRR](carabineros-de-alokados/radio-codigos-y-qrr.md)
-* [Servicio, Equipamiento y Procedimientos](carabineros-de-alokados/servicio-equipamiento-y-procedimientos.md)
-* [Detenciones, Denuncias y Registro](carabineros-de-alokados/detenciones-denuncias-y-registro.md)
-* [Uso de la Fuerza, Negociaciones y Persecuciones](carabineros-de-alokados/uso-de-la-fuerza-negociaciones-y-persecuciones.md)
+* [Policía de la Ciudad](Facciones/Policia de la cuidad.md)
+* [Normativa Interna Policía de Alokado2](Facciones/Policia de la cuidad.md)
+* [Jerarquía, Divisiones y Presentación](Facciones/jerarquia-divisiones-y-presentacion.md)
+* [Radio, Códigos y QRR](Facciones/radio-codigos-y-qrr.md)
+* [Servicio, Equipamiento y Procedimientos](Facciones/servicio-equipamiento-y-procedimientos.md)
+* [Detenciones, Denuncias y Registro](Facciones/detenciones-denuncias-y-registro.md)
+* [Uso de la Fuerza, Negociaciones y Persecuciones](carabineros-de-alokados-policia/uso-de-la-fuerza-negociaciones-y-persecuciones.md)
 
-* [B.O.P.E — Brigada de Operaciones Policiales Espesiales](Facciones/B.O.P.E.md)
+* [B.O.P.E — Brigada de Operaciones Policiales Especiales](Facciones/B.O.P.E.md)
 #### EMS
 
 * [EMS General](ems-servicios-medicos/ems-general.md)

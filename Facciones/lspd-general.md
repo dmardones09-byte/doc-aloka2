@@ -3,21 +3,19 @@ description: Vista general de Carabineros de Alokados y acceso rápido a su norm
 icon: building-shield
 ---
 
-# Policia de la ciudads - General
+# Policía de la Ciudad - General
 
-## Policia de la ciudad - General
+## Policía de la Ciudad - General
 
 {% hint style="info" %}
-Esta sección reúne la normativa de Policia de la ciudad por bloques.
+Esta sección reúne la normativa policial por bloques.
 
-Primero entiendes la base. Luego operas. Después resuelves escenas complejas.
+Primero se entiende la base, luego se opera y finalmente se resuelven las escenas más complejas.
 {% endhint %}
 
 ### Rol institucional
 
-Policia de la ciudad resguarda el orden público y responde a incidentes diarios.
-
-Su estándar base es disciplina, criterio, coordinación y control de escena.
+La Policía de la Ciudad vela por el orden público y responde a los incidentes diarios de la urbe. Su base es la disciplina, la coordinación, el criterio y el control de escena.
 
 ### Principios
 
@@ -65,7 +63,7 @@ Entra a la frecuencia asignada y espera instrucciones si no tienes patrulla.
 
 #### 1. Base institucional
 
-* [Normativa Interna Carabineros de Alokados](normativa-interna-lspd.md)
+* [Normativa Interna Carabineros de Alokados](Policia de la cuidad.md)
 * [Jerarquía, Divisiones y Presentación](jerarquia-divisiones-y-presentacion.md)
 
 #### 2. Operativa diaria
@@ -76,17 +74,15 @@ Entra a la frecuencia asignada y espera instrucciones si no tienes patrulla.
 #### 3. Procedimientos críticos
 
 * [Detenciones, Denuncias y Registro](detenciones-denuncias-y-registro.md)
-* [Uso de la Fuerza, Negociaciones y Persecuciones](uso-de-la-fuerza-negociaciones-y-persecuciones.md)
+* [Uso de la Fuerza, Negociaciones y Persecuciones](../carabineros-de-alokados-policia/uso-de-la-fuerza-negociaciones-y-persecuciones.md)
 
 ### Guías relacionadas
 
-* [Normativa General.](../normativa-general..md)
+* [Normativa General](../normativa-general..md)
 * [DEFCON y Armamento](../facciones-legales/defcon-y-armamento.md)
 * [Actos Delictuales](../sistema-delictual/actos-delictuales.md)
 * [DNI y Placas](../guias-de-juego/integrations.md)
 
 ### Criterio final
 
-La sección quedó ordenada de lo general a lo operativo.
-
-Así es más fácil capacitar, consultar y aplicar criterio sin mezclar temas.
+La sección está ordenada de lo general a lo operativo para facilitar la lectura, la capacitación y la aplicación del criterio en escena.

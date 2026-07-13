@@ -1,88 +1,111 @@
-# 📚 Normativa General.
+# 📚 Normativa General
 
-##
+Esta normativa es la base del servidor y busca mantener un rol coherente, serio y respetuoso para todos. En un servidor con identidad latina, lo importante es la inmersión, el contexto, la responsabilidad y la buena convivencia.
 
-1. <mark style="color:yellow;">**Abuso de mecánicas**</mark>\
-   El abuso de tipo de mecánica, error del mismo juego para beneficio propio será motivo para sancionar administrativamente.
-2. <mark style="color:yellow;">**Nombres IC**</mark>\
-   Al crear el **DNI** de tu personaje, debes tener un nombre y apellido real, éstos no pueden ser creados de broma/TROLLs ni con abreviaturas.\
-   Solo se podrá cambiar una vez cada un mes **el nombre y/o apellido** por slot, además esta sujeto a ciertas condiciones que se mencionan en el formulario correspondiente.
-3.  <mark style="color:yellow;">**Contacto IC**</mark>\
-    El hablar fuera de rol dentro del juego queda **PROHIBIDO**, debes seguir en cada momento tu RDI. El uso de ciertas frases y/o palabras refiriéndose a algo OOC, no se puede realizar y será sancionado.
+## Principios del servidor
 
-    <div data-gb-custom-block data-tag="hint" data-style="danger" class="hint hint-danger"><p><strong>EJEMPLOS:</strong><br><strong>></strong> Estoy sacando clips<br>> Te voy a reportar<br>> Te voy a reportar<br>> Hablaré con staff o diositos</p></div>
-4.  <mark style="color:yellow;">**Uso de archivos modificados**</mark>\
-    Esta estrictamente <mark style="color:red;">**PROHIBIDO**</mark> el uso de cualquier archivo modificado, mod, cheat, miras (ya sean externas o propias del FiveM) y/o citizens que otorguen ventajas sobre los demás jugadores.
+- El rol debe ser claro, consistente y natural.
+- No se permite aprovechar errores del sistema, bugs o herramientas externas para obtener ventaja.
+- La interpretación debe responder al contexto y al tono del servidor.
+- El staff resolverá según evidencia, criterio y realidad de la escena.
 
-    <div data-gb-custom-block data-tag="hint" data-style="danger" class="hint hint-danger"><p><strong>EJEMPLOS:</strong><br><strong>> </strong><mark style="color:yellow;"><strong>Uso de archivos modificados</strong></mark><br>> No rola, No-Props, No-Bushes, etc.<br>> Damage, No-Recoil, Silent-Aim, Magic Bullets, etc.<br>> Inyectores (Lua Menus, Client-side triggers).</p></div>
+## Reglas base
 
-    El uso de los anteriormente mencionados, conllevará a una sanción <mark style="color:red;">**PERMANENTE**</mark>**.**
-5. <mark style="color:yellow;">**Acoso y/o Hostigamiento**</mark>\
-   No se tolerará ningún tipo de acoso, incluyendo expresiones racistas, sexistas, comentarios homofóbicos, transfóbicos u otro tipo de discursos abusivos en general. Al que se le sorprenda cometiendo esta acción/comentarios será sancionado <mark style="color:red;">**PERMANENTEMENTE**</mark>**.**<br>
-6. <mark style="color:yellow;">**Robo a cuerpos abatidos**</mark>\
-    Está estrictamente <mark style="color:red;">**PROHIBIDO**</mark> cachear cuerpos abatidos fuera de contexto delictual activo, el hacer esto conllevará a una sanción de manera <mark style="color:orange;">**Administrativa**</mark>. Se permite cachear en ciudad cuando sea resultado directo de un rol de peso (asalto, secuestro o guerra territorial), exista control efectivo de escena y no se trate de una <mark style="color:green;">**zona segura**</mark>. También se permite cuando el abatido se encuentre en alguna zona roja o en alguna propiedad privada de una <mark style="color:purple;">**Organización Delictual**</mark>.
-7. <mark style="color:yellow;">**Sobrecarga de inventario**</mark>\
-   La **sobrecarga** de **inventario,** significa que no puedes llevar una cantidad excesiva de objetos sin usar un bolso o contenedor adecuado. Ésto aplica para todos y es esencial para mantener el equilibrio y el realismo en el juego. Por ejemplo, un usuario no podría llevar múltiples armas, chalecos o comida. Esto también aplica para <mark style="color:purple;">**Facciones y ODs**</mark> cuando lleven armas de alto calibre o el <mark style="color:orange;">**personal médico**</mark> cuando llevan equipo especializado en terreno.
-8. <mark style="color:yellow;">**Toxicidad**</mark>\
-   No se <mark style="color:red;">**TOLERARÁ**</mark> ningún tipo de toxicidad en la comunidad en contra de los <mark style="color:green;">**usuarios**</mark> y/o miembros del <mark style="color:orange;">**Staff**</mark>.
-9. <mark style="color:yellow;">**Dupeo**</mark>\
-   El **DUPEO** de objetos/vehículos o cualquier objeto tangible dentro del servidor, está estrictamente <mark style="color:red;">**PROHIBIDO**</mark> y la persona que sea sorprendida realizando este acto, será sancionada de manera <mark style="color:red;">**PERMANENTE**</mark> y sin derecho a apelar.
-10. <mark style="color:yellow;">**Facciones legales**</mark>\
-    Está estrictamente <mark style="color:red;">**PROHIBIDO**</mark> cometer actos delictivos siendo parte de alguna facción legal (EMS, FIB, Carabineros de Alokados). Debes respetar tu <mark style="color:green;">**RDI**</mark> en todo momento.
-11. <mark style="color:yellow;">**Vehículos de facciones**</mark>\
-    Está estrictamente <mark style="color:red;">**PROHIBIDO**</mark> el uso de vehículos de facciones legales para uso personal sin pertenecer a esta u estando **fuera de servicio**.
-12. <mark style="color:yellow;">**Reconocer civiles**</mark>\
-    **No puedes** reconocer a la gente por la **voz**, por la **ropa que usan** y si se encuentran **enmascarados**.
-13. <mark style="color:yellow;">**DNI**</mark>\
-    Es <mark style="color:red;">**OBLIGATORIO**</mark> para todos los <mark style="color:green;">**usuarios**</mark> portar su documento de identidad (DNI) físico, es un objeto del mismo servidor (también disponible en el menú F5).
-14. <mark style="color:yellow;">**Matar en sigilo**</mark>\
-    No se <mark style="color:orange;">**podrá**</mark> matar a otros usuarios con “golpe sigiloso". Solo podrá ser utilizado durante un rol de peso por las facciones (FIB, Carabineros de Alokados / OD) y locales con RDI delictivo (solo chaquetas). El que abuse de esta acción será <mark style="color:red;">**sancionado administrativamente**</mark>.
-15. <mark style="color:yellow;">**Segundo slot de PJ**</mark>
+1. Abuso de mecánicas
+   El uso de errores del juego, exploits o ventajas injustas para beneficio propio será motivo de sanción administrativa.
 
-    <div data-gb-custom-block data-tag="hint" data-style="info" class="hint hint-info"><p>Se le otorgará un segundo slot de personaje a aquellas personas que tengan su <strong>Whitelist</strong> aprobada y que adquieran uno.</p></div>
+2. Nombres IC
+   El nombre y apellido del personaje deben ser realistas, coherentes y adecuados al contexto del servidor. No se permiten nombres de broma, abreviaturas absurdas ni elementos que rompan la inmersión. El cambio de nombre y/o apellido está limitado y sujeto a condiciones.
 
-    **No se puede pertenecer a la misma facción con los dos slots**, al igual que no se podrá pertenecer a una organización criminal con dos PJ.\
-    \
-    **No se pueden realizar roles** que lleven a beneficio propio de traspaso de información de un PJ a otro. **(MG)**\
-    \
-    Está totalmente **prohibido la herencia de un PJ a otro**. (dinero, casas, autos etc.)
-16. <mark style="color:yellow;">**Comentarios IC a OOC (MG2).**</mark>\
-    La toxicidad IC no puede ser llevada a comentarios OOC, esto no esta permitido y conllevará a una sanción para la persona que haya interpretado esto de manera **OOC**. <mark style="color:red;">**El cometer este acto será una sanción PERMANENTE**</mark>**.**\
-    \
-    <mark style="color:orange;">**Como administración prohibimos TODO TIPO DE ROL DE VIOLACIÓN**</mark>**,&#x20;**<mark style="color:red;">**quien sea encontrado realizando este tipo de rol será baneado permanentemente sin derecho a apelación**</mark>**.**
-17. <mark style="color:yellow;">**Ventas.**</mark><br>
+3. Contacto IC y RDI
+   No está permitido hablar fuera de rol dentro del juego ni romper el RDI con comentarios OOC, frases ajenas al contexto o referencias directas al fuera de rol. Esto se considera una falta grave.
 
-    <div data-gb-custom-block data-tag="hint" data-style="danger" class="hint hint-danger"><p><strong>Esta prohibido el intercambio o ventas entre usuarios de adquisiciones mediante VIPS o dinero OOC. Esto conlleva una</strong> <strong>sanción </strong><mark style="color:red;"><strong>PERMANENTE</strong></mark><strong> sin derecho a apelación.</strong></p></div>
+   Ejemplos: “Estoy sacando clips”, “te voy a reportar”, “voy a hablar con staff”, entre otros.
 
-    **No se podrá intercambiar ningún objeto, auto o casa por dinero OOC entre USUARIOS. el hacer esto conlleva una sanción&#x20;**<mark style="color:red;">**PERMANENTE**</mark>**.**
-18. <mark style="color:yellow;">**Rolear de OD sin serlo.**</mark>\
-    <mark style="color:orange;">**Está totalmente prohibido**</mark> hacerse pasar por <mark style="color:green;">**OD**</mark>**,** es decir, no se podrá ir con vestimentas iguales y portar el mismo color en las prendas para roles agresivos.
-19. <mark style="color:yellow;">**Traspasos de pertenencias**</mark>\
-    **En caso de realizar un CK a tu PJ, está prohibido el traspaso de cualquier pertenencia adquirida de manera IC a otro jugador. Vehículos, dinero, armas, propiedades u otras cosas.&#x20;**<mark style="color:orange;">**(**</mark><mark style="color:orange;">Recordar que todos los objetos adquiridos mediante VIPS se mantienen en el SLOT luego de realizar un CK)</mark>. **Esto conlleva a una sanción&#x20;**<mark style="color:red;">**PERMANENTE**</mark>**&#x20;por rol de herencia.**
-20. <mark style="color:yellow;">**Casas**</mark>\
-    Todos los ciudadanos podrán adquirir casas para guardar sus pertenencias. Con dinero IC, se puede comprar un máximo de 2 casas, por medio de un ticket correspondiente de casas. Aquellos que adquieran casas con un VIP o dinero OOC, podrán tener propiedades ilimitadas (sujetas a disponibilidad igualmente).
-21. <mark style="color:yellow;">**Cupones**</mark>\
-    **Los cupones que vengan con un VIP**, ya sea de descuento de tuneo, o cupones respecto a casas o cualquier otro tipo de cupón que se encuentre en el inventario de un jugador <mark style="color:red;">**NO PUEDE SER ROBADO**</mark>. **El cometer este acto arriesga una sanción&#x20;**<mark style="color:red;">**permanente**</mark>**.**
-22. <mark style="color:yellow;">**Morir es parte del rol (PK)**</mark>\
-    Solamente cuando se trate de un bug comprobable o con evidencia de un antirol, se hará una devolución o se revivirá según corresponda.
-23. <mark style="color:yellow;">**Robo a trabajadores**</mark>
+4. Archivos modificados y cheats
+   Queda prohibido el uso de mods, cheats, miras externas, no-props, no-bushes, aim assist, inyectores y cualquier herramienta que otorgue ventaja injusta sobre los demás jugadores. Su uso puede derivar en sanción permanente.
 
-* Esta completamente prohibido asaltar o secuestrar como rehén a un EMS en servicio.
-* Aquellos que estén de servicio, como mecánicos, basureros, etc. Siempre que estén con su uniforme y vehículo de servicio <mark style="color:orange;">**NO SE LES PODRA ASALTAR**</mark>. Si se encuentran sin uno de los implementos, ya sea uniforme o vehículos, si podrán ser asaltados.
+5. Acoso y hostigamiento
+   No se tolera el acoso, el racismo, el sexismo, la homofobia, la transfobia ni ningún discurso abusivo. Quien lo cometa será sancionado de forma severa.
 
-24. <mark style="color:yellow;">**Patentes**</mark>\
-    No se podrá eliminar/sacar las patentes de los vehículos (<mark style="color:green;">**Dirigido exclusivamente a Mecánicos**</mark>), el hacer esto conllevara una <mark style="color:red;">**sanción**</mark> y una desvinculación de la facción.
-25. <mark style="color:yellow;">**Uso de Graffiti**</mark> <mark style="color:purple;">**(Exclusivo de Organizaciones Delictuales)**</mark>\
-    Se requerirá un mínimo de <mark style="color:green;">**4 Carabineros de Alokados CONECTADOS**</mark> y se deberá respetar el +1 para realizar el acto, será obligatorio el uso del /entorno antes de realizar el Graffiti correspondiente. (<mark style="color:red;">**Recordar que el Ciudadano que realice un Graffiti arriesgara una sanción**</mark>, ya que este acto es exclusivo de OD).
-26. <mark style="color:yellow;">**Doble facción (Contempla Carabineros de Alokados, SAMU & OD)**</mark>\
-    Se le dará a elegir entre una u otra facción al jugador que tenga <mark style="color:red;">**2 sanciones aplicadas por un STAFF**</mark> que esté estrictamente relacionada con OD, SAMU o Carabineros de Alokados.
-27. <mark style="color:yellow;">**RB (Roll-Back)**</mark>\
-    Se entiende como <mark style="color:yellow;">**Roll-Back**</mark>, el realizar nuevamente un rol que por motivos de algún error, antirol, etc. Deba efectuarse nuevamente aquel rol.
-28. <mark style="color:yellow;">**Corrupción**</mark>\
-    Entendemos como corrupción, el abusar de un trabajo legal para beneficio personal, ya sea de <mark style="color:$success;">Carabineros de Alokados</mark><mark style="color:$info;">,</mark> <mark style="color:blue;">FIB</mark><mark style="color:$info;">,</mark> <mark style="color:orange;">EMS</mark> <mark style="color:$info;">y</mark> <mark style="color:$primary;">**LOCALES LEGALES**</mark><mark style="color:$info;">.</mark>
-29. <mark style="color:yellow;">**Pruebas audiovisuales**</mark>\
-    Para realizar un reporte se necesitan las pruebas correspondientes, cada usuario debe tener sus propias pruebas audiovisuales. El uso de clips de terceros para un reporte está <mark style="color:red;">**prohibido**</mark>. En el caso de utilizar clips de un usuario que participó en el rol, se requerirá una autorización previa.
-30. <mark style="color:yellow;">**Publicidad**</mark>\
-    Queda estrictamente <mark style="color:red;">**PROHIBIDO**</mark> publicitar otros servidores dentro del juego o en nuestro Discord. A los usuarios que se les sorprenda publicitando, ya sea servidores o cualquier cosa ajena al servidor, será <mark style="color:red;">**desvinculado inmediatamente del servidor**</mark>.
-31. <mark style="color:yellow;">**Abusar de vacíos en Normativa**</mark>\
-    Está totalmente <mark style="color:red;">**PROHIBIDO**</mark> abusar/buscar cualquier vacío en la normativa para beneficio propio/personal. (El que abuse de cualquier vacío será motivo de <mark style="color:red;">**SANCIÓN**</mark>).
+6. Robo a cuerpos abatidos
+   No se permite cachear cuerpos abatidos fuera de un contexto delictual activo. Se permite únicamente cuando exista un rol de peso, control de escena y contexto válido, como asaltos, secuestros, guerras territoriales, zonas rojas o propiedades privadas de organizaciones delictuales.
+
+7. Sobrecarga de inventario
+   No se puede llevar una cantidad excesiva de objetos sin un contenedor o equipo adecuado. Esto aplica a todos los jugadores, incluyendo facciones, ODs y personal médico cuando lleven equipo especializado.
+
+8. Toxicidad
+   No se tolerará la toxicidad hacia usuarios, miembros del staff ni otros jugadores. El comportamiento ofensivo, despectivo o provocador puede derivar en sanción.
+
+9. Dupeo
+   El dupeo de objetos, vehículos o cualquier elemento del servidor está prohibido. Quien sea sorprendido será sancionado de forma permanente.
+
+10. Facciones legales
+   Queda prohibido que miembros de facciones legales cometan actos delictivos mientras estén dentro de su rol institucional. Deben respetar su RDI en todo momento.
+
+11. Vehículos de facciones
+   No se permite usar vehículos de facciones legales para uso personal ni fuera de servicio sin justificación institucional.
+
+12. Reconocer civiles
+   No puedes reconocer a una persona por su voz, su ropa o por estar enmascarada. La identificación debe ser coherente con el contexto del rol.
+
+13. DNI
+   Es obligatorio portar el DNI físico o el disponible en el menú F5.
+
+14. Matar en sigilo
+   El golpe sigiloso no se podrá usar de forma abusiva. Solo podrá emplearse en contextos de rol de peso por facciones autorizadas y locales con RDI delictivo, y su uso indebido será sancionado.
+
+15. Segundo slot de PJ
+   Se permite un segundo slot de personaje solo para quienes cumplan con los requisitos correspondientes. No se permite pertenecer a la misma facción o organización criminal con ambos personajes, ni hacer traspasos de información, beneficios o pertenencias entre ellos. La herencia entre personajes está prohibida.
+
+16. Comentarios IC a OOC
+   La toxicidad o el conflicto IC no pueden trasladarse a comentarios OOC. Quien lo haga será sancionado de forma severa. Los roles de violación o conductas extremas serán considerados graves y podrán derivar en baneo permanente.
+
+17. Ventas
+   Está prohibido intercambiar o vender objetos, vehículos, propiedades o beneficios por dinero OOC o VIP entre usuarios. Esto es una falta grave y puede derivar en sanción permanente.
+
+18. Rolear de OD sin serlo
+   No está permitido simular ser OD con vestimenta, colores o comportamiento equivalente para fines agresivos.
+
+19. Traspasos de pertenencias
+   En caso de CK, queda prohibido transferir pertenencias adquiridas IC a otro jugador. Esto incluye vehículos, dinero, armas, propiedades y demás objetos. Los objetos obtenidos mediante VIP se mantienen en el slot correspondiente.
+
+20. Casas
+   Los ciudadanos podrán adquirir casas con dinero IC, con un máximo de dos propiedades salvo excepciones establecidas por la administración. Las casas compradas con VIP o dinero OOC pueden estar sujetas a disponibilidad y criterio.
+
+21. Cupones
+   Los cupones vinculados a VIP, descuentos o beneficios no pueden ser robados. Su sustracción o uso indebido puede derivar en sanción permanente.
+
+22. Morir es parte del rol (PK)
+   La muerte del personaje es parte del rol. Solo se reconsiderará una devolución o revivificación si existe un bug comprobable, evidencia de antirol o un error del sistema.
+
+23. Robo a trabajadores
+   Está prohibido asaltar o secuestrar como rehén a un EMS en servicio. También se prohíbe atacar a trabajadores de servicio, como mecánicos, basureros u otros, cuando estén con uniforme y vehículo de servicio, salvo que se encuentre fuera de contexto.
+
+24. Patentes
+   No se permite quitar o eliminar las patentes de los vehículos. Esto está orientado especialmente a mecánicos y puede derivar en sanción y expulsión de la facción.
+
+25. Uso de graffiti
+   El uso de graffiti es exclusivo de organizaciones delictuales. Se requiere el cumplimiento de los requisitos correspondientes y la previa coordinación con el contexto, además de respetar las reglas propias del sistema.
+
+26. Doble facción
+   Quien acumule sanciones graves relacionadas con OD, SAMU o Carabineros de Alokados podrá tener limitaciones o restricciones en su acceso a ciertas facciones, según criterio del staff.
+
+27. RB (Roll-Back)
+   Se entiende por RB la repetición de un rol por errores del sistema, antirol o circunstancias ajenas al jugador. El staff decidirá si corresponde o no.
+
+28. Corrupción
+   Se considera corrupción el uso abusivo de un trabajo legal para beneficio personal, ya sea en Carabineros, FIB, EMS o locales legales.
+
+29. Pruebas audiovisuales
+   Para realizar un reporte se deben presentar pruebas claras y propias. No se permite usar clips ajenos sin autorización previa. Si el material pertenece a un usuario implicado, debe existir permiso.
+
+30. Publicidad
+   Queda prohibida la publicidad de otros servidores dentro del juego o del Discord. Quien lo haga puede ser desvinculado del servidor.
+
+31. Abuso de vacíos en la normativa
+   No se permite aprovechar huecos, ambigüedades o vacíos de la normativa para obtener ventaja. Cualquier abuso será tratado como falta grave.
+
+## Cierre
+
+La normativa existe para proteger la experiencia de todos. Un buen rol no solo se ve en lo que haces, sino también en cómo lo haces: con criterio, respeto y coherencia. Un servidor de estilo latino se sostiene mejor cuando todos entienden que la ciudad no es solo un mapa, sino una historia compartida.
