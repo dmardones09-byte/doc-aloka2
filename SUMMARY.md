@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🗽 Aloka2 Roleplay V2](README.md)
+* [🗽 aloka2 rp](README.md)
 * [🔰 Conceptos de rol.](conceptos-de-rol..md)
 * [📚 Normativa General.](normativa-general..md)
 

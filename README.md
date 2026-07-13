@@ -5,7 +5,7 @@ description: >-
   responsabilidad estar al tanto de la normativa y sus actualizacio
 ---
 
-# 🗽 Aloka2 Roleplay V2
+# 🗽 aloka2 rp
 
 ***
 
