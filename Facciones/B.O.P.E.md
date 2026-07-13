@@ -3,7 +3,6 @@ description: Brigada de Operaciones Policiales Especiales (B.O.P.E)
 icon: search
 ---
 
-# B.O.P.E — Brigada de Operaciones Policiales Especiales
 
 ## Introducción
 
