@@ -1,6 +1,6 @@
 ---
 description: Brigada de Operaciones Policiales Especiales (B.O.P.E)
-icon: search
+icon: building-shield
 ---
 
 
