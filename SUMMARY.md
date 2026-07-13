@@ -26,12 +26,6 @@
 * [Ingreso de OD a Zonas Rojas](zonas-del-servidor/ingreso-de-od-a-zonas-rojas.md)
 * [Zona Libre de Conflicto (OD)](zonas-del-servidor/zona-libre-de-conflicto-od.md)
 
-## Facciones Legales
-
-* [Carabineros de Alokados (Policía)](https://app.gitbook.com/s/9naHHSkzPSfK0Dc3CSkf/lspd-policia)
-* [DEFCON y Armamento](facciones-legales/defcon-y-armamento.md)
-* [EMS (Servicios Médicos)](https://app.gitbook.com/s/9naHHSkzPSfK0Dc3CSkf/ems-servicios-medicos)
-
 ## Facciones (Policía)
 
 * [Policía de la Ciudad](Facciones/Policia%20de%20la%20cuidad.md)
