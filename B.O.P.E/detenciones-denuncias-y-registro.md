@@ -13,7 +13,7 @@ icon: file-signature
 
 #### Regla base
 
-* Los derechos deben leerse a todo detenido.
+* Los derechos deben leerse a todo los detenido.
 * También debe informarse el motivo de la detención.
 * La lectura debe ocurrir antes de avanzar con el procedimiento.
 
@@ -21,7 +21,7 @@ icon: file-signature
 
 1. Derecho a guardar silencio.
 2. Derecho a comida, bebida y asistencia médica dentro de comisaría.
-3. Derecho a una llamada telefónica controlada.
+3. Derecho a una llamada telefónica en precensia de un oficial.
 4. Derecho a no autoincriminarse.
 5. Derecho a abogado cuando corresponda.
 6. Derecho a conocer la causa de su detención.

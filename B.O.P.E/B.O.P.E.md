@@ -1,13 +1,13 @@
 ---
-description: Brigada de Investigaciones (BDI) — unidad criminalística y de pesquisa.
+description: Brigada de Operaciones Policiales Espesiales (B.O.P.E)
 icon: search
 ---
 
-# BDI — Brigada de Investigaciones
+# B.O.P.E — Brigada de Operaciones Policiales Espesiales.
 
 ## Propósito
 
-La Brigada de Investigaciones (BDI) se encarga de la investigación criminal, análisis de escenas, coordinación con unidades operativas y soporte técnico en casos complejos.
+Brigada de Operaciones Policiales Espesiales  (B.O.P.E) se encarga de la Seguridad del norte y vigilancia en las fronteras del Norte y ciudad y brinda apoyo a Policia de la ciudad.
 
 ## Funciones principales
 
@@ -19,8 +19,8 @@ La Brigada de Investigaciones (BDI) se encarga de la investigación criminal, an
 
 ## Requisitos y acceso
 
-La BDI suele requerir formación especializada y autorización de mando.
-Los procedimientos y acceso a información sensible siguen la normativa interna de Carabineros de Alokados.
+La B.O.P.E suele requerir formación especializada y autorización de mando.
+Los procedimientos y acceso a información sensible siguen la normativa interna de Policia de la ciudad.
 
 ## Documentación relacionada
 
