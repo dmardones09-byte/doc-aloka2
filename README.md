@@ -5,7 +5,7 @@ description: >-
   responsabilidad estar al tanto de la normativa y sus actualizacio
 ---
 
-# 🗽 aloka2 rp
+# 🗽 Alokado2 RP
 
 ***
 
@@ -37,7 +37,7 @@ Revisa [Sistema de Sanciones](importante/sistema-de-sanciones.md) y actúa con c
 {% endstep %}
 {% endstepper %}
 
-### Identidad del servidor Aloka2 RP 
+### Identidad del servidor Alokado2 RP
 
 * Rol semi-serio.
 * Interpretación coherente.
@@ -89,12 +89,12 @@ Revisa [Sistema de Sanciones](importante/sistema-de-sanciones.md) y actúa con c
 #### FACCIONES 
 
 * [Policia-de-la-ciudad](Facciones/Policia de la cuidad.md)
-* [Normativa Interna Policia de Aloka2](carabineros-de-alokados/normativa-interna-lspd.md)
-* [Jerarquía, Divisiones y Presentación](carabineros-de-alokados/jerarquia-divisiones-y-presentacion.md)
-* [Radio, Códigos y QRR](carabineros-de-alokados/radio-codigos-y-qrr.md)
-* [Servicio, Equipamiento y Procedimientos](carabineros-de-alokados/servicio-equipamiento-y-procedimientos.md)
-* [Detenciones, Denuncias y Registro](carabineros-de-alokados/detenciones-denuncias-y-registro.md)
-* [Uso de la Fuerza, Negociaciones y Persecuciones](carabineros-de-alokados/uso-de-la-fuerza-negociaciones-y-persecuciones.md)
+* [Normativa Interna Policía de Alokado2 RP](Facciones/Policia de la cuidad.md)
+* [Jerarquía, Divisiones y Presentación](Facciones/jerarquia-divisiones-y-presentacion.md)
+* [Radio, Códigos y QRR](Facciones/radio-codigos-y-qrr.md)
+* [Servicio, Equipamiento y Procedimientos](Facciones/servicio-equipamiento-y-procedimientos.md)
+* [Detenciones, Denuncias y Registro](Facciones/detenciones-denuncias-y-registro.md)
+* [Uso de la Fuerza, Negociaciones y Persecuciones](carabineros-de-alokados-policia/uso-de-la-fuerza-negociaciones-y-persecuciones.md)
 
 * [B.O.P.E — Brigada de Operaciones Policiales Espesiales](Facciones/B.O.P.E.md)
 #### EMS
@@ -136,7 +136,7 @@ Revisa [Sistema de Sanciones](importante/sistema-de-sanciones.md) y actúa con c
 3. Si algo no está escrito, aplica fair play.
 4. Staff resuelve por contexto y evidencia.
 
-**Bienvenido a Aloka2** RP V2
+**Bienvenido a Alokado2 RP** V2
 
 ## Bienvenido a una ciudad viva
 

@@ -65,7 +65,7 @@ Entra a la frecuencia asignada y espera instrucciones si no tienes patrulla.
 
 #### 1. Base institucional
 
-* [Normativa Interna Carabineros de Alokados](normativa-interna-lspd.md)
+* [Normativa Interna Carabineros de Alokados](Policia de la cuidad.md)
 * [Jerarquía, Divisiones y Presentación](jerarquia-divisiones-y-presentacion.md)
 
 #### 2. Operativa diaria
