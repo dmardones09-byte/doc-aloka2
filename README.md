@@ -89,6 +89,7 @@ Revisa [Sistema de Sanciones](importante/sistema-de-sanciones.md) y actúa con c
 #### FACCIONES 
 
 * [Policía de la Ciudad](Facciones/Policia%20de%20la%20cuidad.md)
+* [B.O.P.E — Brigada de Operaciones Policiales Especiales](Facciones/B.O.P.E.md)
 * [Normativa Interna Policía de Alokado2](Facciones/normativa-interna-carabineros-de-alokado2.md)
 * [Jerarquía, Divisiones y Presentación](Facciones/jerarquia-divisiones-y-presentacion.md)
 * [Radio, Códigos y QRR](Facciones/radio-codigos-y-qrr.md)
@@ -96,7 +97,6 @@ Revisa [Sistema de Sanciones](importante/sistema-de-sanciones.md) y actúa con c
 * [Detenciones, Denuncias y Registro](Facciones/detenciones-denuncias-y-registro.md)
 * [Uso de la Fuerza, Negociaciones y Persecuciones](Facciones/uso-de-la-fuerza-negociaciones-y-persecuciones.md)
 
-* [B.O.P.E — Brigada de Operaciones Policiales Especiales](Facciones/B.O.P.E.md)
 #### EMS
 
 * [EMS General](ems-servicios-medicos/ems-general.md)
