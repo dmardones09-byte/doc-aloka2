@@ -34,7 +34,7 @@
 
 ## Facciones (Policía)
 
-* [Facciones - General](Facciones/Policia de la cuidad.md)
+* [Carabineros de Alokados (Policía)](https://app.gitbook.com/s/9naHHSkzPSfK0Dc3CSkf/lspd-policia)
 * [Normativa Interna Carabineros de Alokados](carabineros-de-alokados/normativa-interna-lspd.md)
 * [Jerarquía, Divisiones y Presentación](carabineros-de-alokados/jerarquia-divisiones-y-presentacion.md)
 * [Radio, Códigos y QRR](carabineros-de-alokados/radio-codigos-y-qrr.md)
