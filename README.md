@@ -89,7 +89,7 @@ Revisa [Sistema de Sanciones](importante/sistema-de-sanciones.md) y actúa con c
 #### FACCIONES 
 
 * [Policía de la Ciudad](Facciones/lspd-general.md)
-* [Normativa Interna Policía de Alokado2](Facciones/Policia%20de%20la%20cuidad.md)
+* [Normativa Interna Policía de Alokado2](Facciones/normativa-interna-carabineros-de-alokado2.md)
 * [Jerarquía, Divisiones y Presentación](Facciones/jerarquia-divisiones-y-presentacion.md)
 * [Radio, Códigos y QRR](Facciones/radio-codigos-y-qrr.md)
 * [Servicio, Equipamiento y Procedimientos](Facciones/servicio-equipamiento-y-procedimientos.md)

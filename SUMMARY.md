@@ -35,7 +35,7 @@
 ## Facciones (Policía)
 
 * [Policía de la Ciudad](Facciones/lspd-general.md)
-* [Normativa Interna Carabineros de Alokados](Facciones/Policia de la cuidad.md)
+* [Normativa Interna Carabineros de Alokados](Facciones/normativa-interna-carabineros-de-alokado2.md)
 * [Jerarquía, Divisiones y Presentación](Facciones/jerarquia-divisiones-y-presentacion.md)
 * [Radio, Códigos y QRR](Facciones/radio-codigos-y-qrr.md)
 * [Servicio, Equipamiento y Procedimientos](Facciones/servicio-equipamiento-y-procedimientos.md)

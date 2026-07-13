@@ -23,6 +23,6 @@ La B.O.P.E suele requerir formación especializada y autorización de mando. Los
 
 ## Documentación relacionada
 
-* [Normativa Interna Carabineros de Alokados](Policia de la cuidad.md)
+* [Normativa Interna Carabineros de Alokados](normativa-interna-carabineros-de-alokado2.md)
 * [Detenciones, Denuncias y Registro](detenciones-denuncias-y-registro.md)
 * [Uso de la Fuerza, Negociaciones y Persecuciones](uso-de-la-fuerza-negociaciones-y-persecuciones.md)
