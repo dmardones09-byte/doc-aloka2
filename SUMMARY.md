@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🗽 aloka2 rp](README.md)
+* [🗽 ALOKA2 R](README.md)
 * [🔰 Conceptos de rol.](conceptos-de-rol..md)
 * [📚 Normativa General.](normativa-general..md)
 
