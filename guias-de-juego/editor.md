@@ -9,8 +9,6 @@ icon: terminal
 
 ### Comandos base de rol
 
-* `/me` describe una acción visible.
-* `/do` aporta contexto o resultado lógico.
 * `/entorno` informa a servicios públicos o staff del entorno.
 * `/id` ayuda a identificar jugadores cercanos.
 * `/same` va un nps al lugar para atenderlo.
