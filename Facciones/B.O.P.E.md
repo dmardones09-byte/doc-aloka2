@@ -3,43 +3,80 @@ description: Brigada de Operaciones Policiales Especiales (B.O.P.E)
 icon: building-shield
 ---
 
+# B.O.P.E
 
-## Introducción
+## B.O.P.E
 
-La Brigada de Operaciones Policiales Especiales (B.O.P.E) es la unidad especializada encargada de responder a incidentes complejos, preservar la integridad de la escena y apoyar a la Policía de la Ciudad en operaciones de alto riesgo, investigación y coordinación.
+{% hint style="info" %}
+La Brigada de Operaciones Policiales Especiales (B.O.P.E) actúa como el respaldo técnico y táctico de las fuerzas policiales en situaciones complejas y de alto riesgo.
+{% endhint %}
 
-## Objetivo
+### Rol institucional
 
-Su finalidad es garantizar un procedimiento ordenado, profesional y técnico en los casos que requieren un nivel superior de análisis, control y respuesta.
+B.O.P.E se especializa en la gestión y control de incidentes críticos, la preservación de evidencia y el apoyo técnico a la Policía de la Ciudad en despliegues complicados.
 
-## Funciones principales
+### Principios
 
-### Operativas
+* especialización.
+* profesionalismo.
+* coordinación interinstitucional.
+* confidencialidad.
+* legalidad.
+* documentación precisa.
 
-* Levantamiento y preservación de evidencia.
-* Coordinación con unidades tácticas en detenciones y operativos.
-* Apoyo en operaciones de alto riesgo y control de escena.
+### Qué encontrarás aquí
 
-### Investigativas
+Esta sección cubre:
 
-* Investigación de delitos complejos y crimen organizado.
-* Análisis forense básico y coordinación con equipos especializados.
-* Mantenimiento de bases de datos e informes técnicos.
+* funciones y capacidades de B.O.P.E.
+* procedimientos de respuesta y soporte.
+* coordinación con Policía de la Ciudad.
+* manejo de evidencia y análisis técnico.
 
-## Requisitos de acceso y actuación
+### Inicio rápido
 
-* Requiere formación especializada y autorización de mando.
-* El acceso a información sensible debe ajustarse a la normativa interna.
-* Su actuación debe respetar la disciplina, la confidencialidad y la cadena de mando.
+{% stepper %}
+{% step %}
+### 1. Confirmar misión
 
-## Estructura de trabajo
+Recibe y valida la orden de despliegue antes de movilizarte.
+{% endstep %}
 
-* Se prioriza la coordinación con la Policía de la Ciudad.
-* La información debe registrarse de forma clara y verificable.
-* Las decisiones operativas deben responder a criterio, legalidad y proporcionalidad.
+{% step %}
+### 2. Preparar equipo
 
-## Documentación relacionada
+Verifica el equipamiento especializado y los protocolos de seguridad.
+{% endstep %}
+
+{% step %}
+### 3. Coordinar enlace
+
+Activa la comunicación con la frecuencia policial y con el mando central.
+{% endstep %}
+{% endstepper %}
+
+### Orden recomendado de lectura
+
+#### 1. Base institucional
 
 * [Normativa Interna Carabineros de Alokados](normativa-interna-carabineros-de-alokado2.md)
+* [Jerarquía, Divisiones y Presentación](jerarquia-divisiones-y-presentacion.md)
+
+#### 2. Operativa crítica
+
 * [Detenciones, Denuncias y Registro](detenciones-denuncias-y-registro.md)
 * [Uso de la Fuerza, Negociaciones y Persecuciones](uso-de-la-fuerza-negociaciones-y-persecuciones.md)
+
+#### 3. Soporte investigativo
+
+* [DEFCON y Armamento](../facciones-legales/defcon-y-armamento.md)
+
+### Guías relacionadas
+
+* [Normativa General](../normativa-general..md)
+* [Policía de la Ciudad - General](Policia de la cuidad.md)
+* [Actos Delictuales](../sistema-delictual/actos-delictuales.md)
+
+### Criterio final
+
+La sección está organizada para entregar una visión clara de la función de B.O.P.E, su coordinación con la policía y sus procedimientos en incidentes de alto riesgo.

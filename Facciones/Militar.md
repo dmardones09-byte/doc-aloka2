@@ -5,42 +5,79 @@ icon: building-shield
 
 # Militar
 
-## Introducción
+## Militar
 
-La facción militar es la unidad de élite encargada de la defensa estratégica, el control operacional y la ejecución de misiones de alto riesgo dentro del servidor. Su función principal es garantizar la estabilidad, la disciplina y la capacidad de respuesta ante amenazas internas o externas.
+{% hint style="info" %}
+La facción militar se encarga de la defensa estratégica, la ejecución de operaciones de alto riesgo y el control de situaciones críticas. Su actuación se basa en la disciplina, la jerarquía y la coordinación táctica.
+{% endhint %}
 
-## Objetivo
+### Rol institucional
 
-Su finalidad es asegurar la preparación, coordinación y efectividad de las operaciones militares, preservando el orden, la autoridad y la capacidad táctica de la organización.
+La facción militar protege objetivos estratégicos y mantiene la operatividad en escenarios donde la respuesta organizada es clave. Su misión es salvaguardar la seguridad y garantizar la capacidad de reacción ante amenazas complejas.
 
-## Funciones principales
+### Principios
 
-### Operativas
+* disciplina y obediencia.
+* coordinación y comunicación.
+* planificación y ejecución.
+* lealtad a la cadena de mando.
+* seguridad y proporcionalidad.
+* documentación y registro claro.
 
-* Ejecución de operaciones de alto riesgo y respuesta inmediata.
-* Protección de instalaciones, objetivos estratégicos y personal asignado.
-* Coordinación con unidades de apoyo en acciones de contingencia.
+### Qué encontrarás aquí
 
-### Estratégicas
+Esta sección cubre:
 
-* Planificación de operaciones, despliegues y contingencias.
-* Mantenimiento de la disciplina y jerarquía en el campo.
-* Supervisión del cumplimiento de procedimientos militares y de seguridad.
+* funciones y responsabilidades militares.
+* preparación, despliegue y actuación.
+* coordinación con otras facciones.
+* normativa interna y uso de la fuerza.
+* jerarquía y procedimientos operativos.
 
-## Requisitos de acceso y actuación
+### Inicio rápido
 
-* Requiere formación militar, disciplina y cumplimiento de la cadena de mando.
-* El acceso a información sensible debe ajustarse a la normativa interna.
-* Toda actuación debe respetar la organización, la autoridad y la proporcionalidad operativa.
+{% stepper %}
+{% step %}
+### 1. Activar servicio
 
-## Estructura de trabajo
+Entra al puesto militar asignado y confirma tu presencia de servicio.
+{% endstep %}
 
-* Se prioriza la coordinación, la preparación y la ejecución ordenada.
-* La información debe registrarse de forma clara y verificable.
-* Las decisiones deben responder a criterio, eficacia y seguridad.
+{% step %}
+### 2. Preparar equipo
 
-## Documentación relacionada
+Verifica el equipamiento y arma autorizado según el nivel operativo.
+{% endstep %}
+
+{% step %}
+### 3. Coordinar despliegue
+
+Confirma misión, objetivos y puntos de apoyo con tu superior inmediato.
+{% endstep %}
+{% endstepper %}
+
+### Orden recomendado de lectura
+
+#### 1. Base institucional
 
 * [Normativa Interna Carabineros de Alokados](normativa-interna-carabineros-de-alokado2.md)
-* [Detenciones, Denuncias y Registro](detenciones-denuncias-y-registro.md)
+* [Jerarquía, Divisiones y Presentación](jerarquia-divisiones-y-presentacion.md)
+
+#### 2. Operativa militar
+
 * [Uso de la Fuerza, Negociaciones y Persecuciones](uso-de-la-fuerza-negociaciones-y-persecuciones.md)
+* [Detenciones, Denuncias y Registro](detenciones-denuncias-y-registro.md)
+
+#### 3. Apoyo y armamento
+
+* [DEFCON y Armamento](../facciones-legales/defcon-y-armamento.md)
+
+### Guías relacionadas
+
+* [Normativa General](../normativa-general..md)
+* [Policía de la Ciudad - General](Policia de la cuidad.md)
+* [Actos Delictuales](../sistema-delictual/actos-delictuales.md)
+
+### Criterio final
+
+La sección está organizada para facilitar la capacitación y la ejecución de la facción militar con claridad, orden y foco en la seguridad operativa.
