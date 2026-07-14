@@ -1,5 +1,5 @@
 ---
-description: Vista general de Carabineros de Alokados y acceso rápido a su normativa operativa.
+description: Vista general de Policia de la Ciudad y acceso rápido a su normativa operativa.
 icon: building-shield
 ---
 
