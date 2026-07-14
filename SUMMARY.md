@@ -30,6 +30,7 @@
 
 * [Policía de la Ciudad](Facciones/Policia%20de%20la%20cuidad.md)
 * [B.O.P.E — Brigada de Operaciones Policiales Espesiales](Facciones/B.O.P.E.md)
+* [Militar](Facciones/Militar.md)
 * [Normativa Interna Carabineros de Alokados](Facciones/normativa-interna-carabineros-de-alokado2.md)
 * [Jerarquía, Divisiones y Presentación](Facciones/jerarquia-divisiones-y-presentacion.md)
 * [Radio, Códigos y QRR](Facciones/radio-codigos-y-qrr.md)
