@@ -100,7 +100,7 @@ Revisa [Sistema de Sanciones](importante/sistema-de-sanciones.md) y actúa con c
 
 #### EMS
 
-* [EMS General](ems-servicios-medicos/ems-general.md)
+* [EMS](ems-servicios-medicos/ems-general.md)
 * [Normativa IC](ems-servicios-medicos/normativa-ic.md)
 * [Personal Médico](ems-servicios-medicos/personal-medico.md)
 * [Salida a Terreno](ems-servicios-medicos/salida-a-terreno.md)
