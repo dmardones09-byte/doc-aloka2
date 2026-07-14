@@ -3,9 +3,9 @@ description: Vista general de Carabineros de Alokados y acceso rápido a su norm
 icon: building-shield
 ---
 
-# Policía de la Ciudad - General
+# Policía de la Ciudad 
 
-## Policía de la Ciudad - General
+## Policía de la Ciudad 
 
 {% hint style="info" %}
 Esta sección reúne la normativa policial por bloques.
