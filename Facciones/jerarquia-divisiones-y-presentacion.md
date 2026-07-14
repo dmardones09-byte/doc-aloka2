@@ -5,9 +5,13 @@ icon: sitemap
 
 # Jerarquía, Divisiones y Presentación
 
-## Jerarquía, Divisiones y Presentación
+## Marco general
 
-### Jerarquía
+La jerarquía, las divisiones y la presentación de cada facción deben responder a la disciplina institucional, la cadena de mando y la imagen profesional. Cada organización posee una estructura propia, pero todas deben mantener orden, criterio y respeto por el uniforme y la autoridad.
+
+## Jerarquía general
+
+La jerarquía base de las facciones legales y operativas se organiza de la siguiente forma:
 
 * General Director
 * General Inspector
@@ -26,53 +30,104 @@ icon: sitemap
 * Cabo 3°
 * Cadete
 
-### Divisiones
+Esta estructura puede adaptarse según la modalidad operativa de cada facción, siempre respetando la cadena de mando y la autoridad institucional.
 
-#### Fuerzas Especiales / SWAT
+## Jerarquía por facción
 
-Unidad táctica para situaciones de alto riesgo.
+### Policía de la Ciudad
 
-Se reserva para disturbios, rehenes y operativos con amenaza elevada.
+La Policía de la Ciudad se organiza en torno a la autoridad operativa, la supervisión de patrullaje y el cumplimiento de la normativa policial en terreno. Su estructura está pensada para responder a incidentes cotidianos, controles de seguridad, detenciones y apoyo a la estabilidad pública.
 
-#### Instructores / Capacitación
+### Militar
 
-Forma, evalúa y corrige al personal operativo.
+La facción militar se rige por una estructura más estricta, orientada a la disciplina, la coordinación y la ejecución de operaciones de alto riesgo. La jerarquía en esta facción debe ser visible, ordenada y respetada en todo momento.
 
-Debe mantener estándar técnico, disciplina y criterio institucional.
+### B.O.P.E
 
-#### Brigada de Investigación Criminal
+B.O.P.E funciona como una unidad especializada de alto rendimiento, orientada a operaciones complejas, control de escenas, intervención táctica y apoyo a otras facciones en situaciones críticas. Su estructura prioriza la especialización, el criterio técnico y la respuesta rápida.
 
-Apoya prevención e investigación de delitos complejos.
+## Divisiones y funciones
 
-Su foco es análisis, levantamiento de información y apoyo operativo.
+### Policía de la Ciudad
+
+#### Patrullaje
+
+Encargada de la presencia policial, la vigilancia y la respuesta rápida en zonas urbanas.
 
 #### Tránsito
 
-Se enfoca en seguridad vial, controles y fiscalización vehicular.
+Se enfoca en seguridad vial, controles vehiculares, fiscalización y prevención de incidentes.
 
-Puede operar con unidades motorizadas y apoyo especializado.
+#### Investigación
 
-### Presentación personal
+Apoya la recolección de información, el registro de hechos y la coordinación de investigaciones.
 
-#### Uniforme
+#### Fuerzas Especiales / SWAT
+
+Unidad táctica destinada a situaciones de alto riesgo, rehenes, disturbios y operativos complejos.
+
+### Militar
+
+#### Operaciones
+
+Responsables de la ejecución de tareas tácticas, despliegues y respuesta inmediata.
+
+#### Defensa y seguridad
+
+Encargados de proteger objetivos estratégicos, instalaciones y personal clave.
+
+#### Planificación y coordinación
+
+Se enfocan en la organización, logística y ejecución de operaciones de mayor complejidad.
+
+### B.O.P.E
+
+#### Operaciones tácticas
+
+Intervención especializada en incidentes de alto riesgo y control de escenas.
+
+#### Investigación especializada
+
+Análisis de delitos complejos, recopilación de información y apoyo técnico.
+
+#### Apoyo operativo
+
+Coordinación con otras unidades para garantizar una respuesta eficiente y segura.
+
+## Presentación personal
+
+### Uniforme
 
 * El uniforme debe usarse correctamente durante todo el servicio.
 * No se permiten modificaciones personales no autorizadas.
 * Toda prenda debe respetar el estándar institucional.
 
-#### Apariencia
+### Apariencia
 
-* La imagen debe ser profesional y sobria.
+* La imagen debe ser profesional, sobria y ordenada.
 * No se permiten colores de cabello ficticios o extravagantes.
-* Se aceptan tonos naturales y casos especiales justificados.
+* Se aceptan tonos naturales y casos especiales debidamente justificados.
 
-#### Tatuajes
+### Tatuajes y accesorios
 
 * Los tatuajes no deben ser visibles con uniforme estándar.
-* Solo se permite visibilidad en rangos autorizados por mando.
+* Solo se permite la visibilidad en rangos autorizados por mando.
+* Los accesorios deben mantenerse dentro de los límites del protocolo institucional.
 
-### Criterio de presentación
+## Presentación por facción
 
-Tu apariencia comunica autoridad, orden y profesionalismo.
+### Policía de la Ciudad
 
-Si dudas entre estilo y estándar, prevalece el estándar.
+Debe evidenciar orden, autoridad y profesionalismo en todo momento. La presentación debe reflejar disciplina operativa y respeto por la institución.
+
+### Militar
+
+La presentación debe transmitir disciplina, jerarquía y rigor. El uniforme y el porte personal deben reforzar la imagen de control y responsabilidad.
+
+### B.O.P.E
+
+La presentación debe ser funcional, técnica y seria. Se prioriza una imagen preparada para la intervención, la coordinación y la respuesta operativa.
+
+## Criterio de presentación
+
+La apariencia comunica autoridad, orden y profesionalismo. Cuando exista duda entre estilo personal y estándar institucional, prevalece siempre el estándar.
