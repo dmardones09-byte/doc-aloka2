@@ -2,10 +2,10 @@
 description: >-
   Te pedimos que leas nuestra normativa. Esta normativa es esencial para
   mantener un rol divertido para todos los usuarios. Esta bajo tu
-  responsabilidad estar al tanto de la normativa y sus actualizacio.
+  responsabilidad estar al tanto de la normativa y sus actualizacio
 ---
 
-# 🗽 ALOKADO2 RP
+# 🕵️ Normativa staff
 
 ***
 
@@ -37,7 +37,7 @@ Revisa [Sistema de Sanciones](importante/sistema-de-sanciones.md) y actúa con c
 {% endstep %}
 {% endstepper %}
 
-### Identidad del servidor Aloka2 RP 
+### Identidad del servidor Aloka2 RP
 
 * Rol semi-serio.
 * Interpretación coherente.
@@ -86,9 +86,9 @@ Revisa [Sistema de Sanciones](importante/sistema-de-sanciones.md) y actúa con c
 
 <summary><strong>Ver más secciones</strong></summary>
 
-#### FACCIONES 
+#### FACCIONES
 
-* [Policía de la Ciudad](Facciones/Policia%20de%20la%20cuidad.md)
+* [Policía de la Ciudad](<Facciones/Policia de la cuidad.md>)
 * [Brigada de Operaciones Policiales Especiales](Facciones/B.O.P.E.md)
 * [Militar](Facciones/Militar.md)
 * [Normativa Interna Policía de Alokado2](Facciones/normativa-interna-carabineros-de-alokado2.md)

@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🗽 ALOKA2 RP](README.md)
+* [🕵️ Normativa staff](README.md)
 * [🔰 Conceptos de rol.](conceptos-de-rol..md)
 * [📚 Normativa General.](normativa-general..md)
 
@@ -28,7 +28,7 @@
 
 ## Facciones (Policía)
 
-* [Policía de la Ciudad](Facciones/Policia%20de%20la%20cuidad.md)
+* [Policía de la Ciudad](<Facciones/Policia de la cuidad.md>)
 * [Brigada de Operaciones Policiales Espesiales](Facciones/B.O.P.E.md)
 * [Militar](Facciones/Militar.md)
 * [Normativa Interna Carabineros de Alokados](Facciones/normativa-interna-carabineros-de-alokado2.md)
@@ -37,7 +37,6 @@
 * [Servicio, Equipamiento y Procedimientos](Facciones/servicio-equipamiento-y-procedimientos.md)
 * [Detenciones, Denuncias y Registro](Facciones/detenciones-denuncias-y-registro.md)
 * [Uso de la Fuerza, Negociaciones y Persecuciones](Facciones/uso-de-la-fuerza-negociaciones-y-persecuciones.md)
-
 
 ## EMS (Servicios Médicos)
 
