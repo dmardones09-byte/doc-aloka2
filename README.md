@@ -37,7 +37,7 @@ Revisa [Sistema de Sanciones](importante/sistema-de-sanciones.md) y actúa con c
 {% endstep %}
 {% endstepper %}
 
-### Identidad del servidor Aloka2 RP 
+### Identidad del servidor Aloka2 RP (IMPORTANTE)
 
 * Rol semi-serio.
 * Interpretación coherente.
@@ -135,9 +135,9 @@ Revisa [Sistema de Sanciones](importante/sistema-de-sanciones.md) y actúa con c
 1. Lee primero la base general.
 2. Entra luego a tu facción o actividad.
 3. Si algo no está escrito, aplica fair play.
-4. Staff resuelve por contexto y evidencia.
+4. Staff resuelve por contexto y evidencia (Con Clips y Video).
 
-**Bienvenido a Aloka2** RP V2
+**Bienvenido a Aloka2 Rp**
 
 ## Bienvenido a una ciudad viva
 
