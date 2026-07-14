@@ -1,6 +1,6 @@
 ---
-description: Accesos rápidos a las reglas clave del sistema delictual.
----
+description: Accesos rápidos a las reglas clave del sistema delictual.+
+icon: clipboard-list
 
 # Referencia rápida delictual
 
