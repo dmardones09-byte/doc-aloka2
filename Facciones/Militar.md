@@ -1,6 +1,6 @@
 ---
 description: Facción militar de alto rendimiento y disciplina operacional.
-icon: shield-halved
+icon: building-shield
 ---
 
 # Militar
