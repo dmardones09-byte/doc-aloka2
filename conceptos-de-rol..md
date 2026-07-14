@@ -1,5 +1,5 @@
 ---
-description: Aqui
+description: estos son los comandos de rol.
 ---
 
 # 🔰 Conceptos de rol.
