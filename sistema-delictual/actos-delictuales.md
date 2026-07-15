@@ -11,7 +11,7 @@ icon: gun
 
 Todo acto delictual debe respetar cupos, armamento, vehículos y restricciones propias.
 
-Siempre aplica el **+1** de **Carabineros de Alokados** cuando corresponda.
+Siempre aplica el **+1** de **Policias** cuando corresponda.
 
 {% hint style="info" %}
 Esta página concentra los criterios operativos más usados en robos, secuestros y escenas delictuales.
