@@ -5,7 +5,7 @@ icon: people-roof
 
 # Organizaciones Delictuales
 
-## Organizaciones Delictuales
+facciones ilegales prohibidas (terrorista, paramilitar), pone; esta si esta bien hecha debera presentarse como proyecto hacia el equipo de staff correspondiente, se evaluara y se tomara una decisión colectiva
 
 ### Criterio general
 
@@ -15,7 +15,7 @@ El criterio aplicado buscará siempre proteger el **fair play**.
 
 ### Responsabilidad
 
-El dueño de la postulación es el máximo responsable del proyecto.
+El dueño de la postulación (Jefe) es el máximo responsable del proyecto.
 
 Su criterio prevalece dentro de la organización.
 
@@ -61,11 +61,16 @@ No se puede levantar un proyecto oficial sobre un territorio ya ocupado por otra
 
 Siempre debe existir una franja clara entre territorios.
 
-### Miembros oficiales
+### Miembros Od 
 
-* **Bandas:** mínimo **4**, máximo **8**.
-* **Mafias:** mínimo **8**, máximo **16**.
-* **Carteles:** mínimo **10**, máximo **20**.
+* **Bandas:** mínimo **2**, máximo **5**.
+* **Mafias:** mínimo **6**, máximo **12**.
+* **Carteles:** mínimo **10**, máximo **18**.
+
+### Miembros Barras
+* **Barras chicas:** mínimo **1**, máximo **5**.
+* **Barras Mediana:** mínimo **5**, máximo **10**.
+* **Barras Grandes:** mínimo **10**, máximo **18**.
 
 ### Permanencia en el servidor
 
@@ -84,7 +89,7 @@ La organización mantiene su oficialidad mientras tenga actividad.
 
 ### Abandonar una organización
 
-Al entrar a una organización criminal, aceptas que bajo justificación válida puedes salir mediante **CK**.
+Al entrar a una organización criminal, aceptas que bajo justificación válida puedes salir mediante **CK** (depende de la desicion del Jefe).
 
 Si quieres abandonar la organización, la última palabra la tiene el líder.
 
@@ -157,7 +162,7 @@ Pasado ese tiempo, quien esté fuera del servidor o fuera del territorio no pued
 
 El máximo de miembros oficiales para cometer un acto delictual es de **10**.
 
-Siempre se respeta el **+1** de **Carabineros de Alokados**.
+Siempre se respeta el **+1** de **Policias de la Ciudad**.
 
 ### Identificación representativa
 

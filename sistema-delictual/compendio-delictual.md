@@ -27,7 +27,7 @@ Se considera campeo permanecer en una zona ilegal o en sus alrededores sin usarl
 
 #### 1.3 Secuestros
 
-* Para secuestrar a un civil se requieren al menos **4 oficiales disponibles** de **Carabineros de Alokados**.
+* Para secuestrar a un civil se requieren al menos **4 oficiales disponibles**
 * Si la víctima colabora, no se le puede aplicar **PK** al finalizar el secuestro.
 * La víctima debe colaborar para valorar su vida.
 * No se pueden forzar actos humillantes ni sexuales.
@@ -56,7 +56,7 @@ La parte amenazada tiene **30 segundos** desde la primera advertencia antes de q
 
 #### 1.7 Máximo de jugadores en roles agresivos o ilícitos
 
-El máximo general es de **4 personas**, respetando el **+1** de **Carabineros de Alokados**.
+El máximo general es de **4 personas**, respetando el **+1** de **Policia de la ciudad**.
 
 #### 1.8 Roles sensibles
 

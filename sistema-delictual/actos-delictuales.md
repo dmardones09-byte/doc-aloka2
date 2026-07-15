@@ -59,9 +59,8 @@ La negociación debe tener intención real.
 
 #### Está prohibido
 
-* pedir imposibles,
-* usar negociador falso sin control de escena,
-* romper negociación para disparar gratis,
+* usar negociador falso sin control de escena.
+* romper negociación para disparar gratis.
 * alargarla solo para traer refuerzos ocultos.
 
 Si negocias, debes sostener el rol con seriedad.
