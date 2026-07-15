@@ -4,10 +4,6 @@ icon: clipboard-list
 
 # Referencia rápida delictual
 
-<p align="center">
-	<img src="../images/logo-referencia.svg" alt="Logo Referencia delictual" width="360" />
-</p>
-
 ## Referencia rápida delictual
 
 {% hint style="info" %}
