@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="160" viewBox="0 0 480 160">
+  <rect rx="20" width="480" height="160" fill="#0b74de"/>
+  <circle cx="80" cy="80" r="36" fill="#ffffff20"/>
+  <text x="240" y="92" font-family="Segoe UI, Arial, sans-serif" font-size="36" fill="#ffffff" text-anchor="middle">Referencia Delictual</text>
+</svg>

@@ -5,7 +5,6 @@ icon: gun
 
 # Actos Delictuales
 
-## Actos Delictuales
 
 ### Regla general
 

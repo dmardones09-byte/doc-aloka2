@@ -35,13 +35,12 @@ Ese perímetro se respeta como si estuvieras dentro de la zona.
 
 ### Zonas seguras y perímetro de protección
 
-* Garaje Vespucci: **100 metros**.
+* Garaje en General: **100 metros**.
 * Zonas de trabajo: **50 metros**.
-* Depósito de vehículos: **50 metros**.
+* Depósito de vehículos (Incautado): **50 metros**.
 * Locales: **100 metros**.
 * Hospital: **150 metros**.
 * Todas las comisarías: **150 metros**.
 * Tienda de ropa: **50 metros**.
-* Gasolinería: **50 metros**.
-* Peluquería y tatuajes: **50 metros**.
+* Peluquería: **50 metros**.
 * Concesionario de vehículos: **50 metros**.
