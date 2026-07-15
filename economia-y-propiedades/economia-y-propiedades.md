@@ -2,17 +2,11 @@
 description: >-
   Punto de entrada para ubicar rápido las reglas de propiedades, locales y
   donaciones.
+icon: scale-balanced
 ---
 
-# Economía y Propiedades
+Economia y Propiedades 
 
-## Economía y Propiedades
-
-Usa esta página como mapa rápido del bloque.
-
-Aquí encontrarás las reglas clave sobre **propiedades**, **locales** y **donaciones**.
-
-{% hint style="info" %}
 La regla oficial vive en su página principal.
 
 Esta portada resume lo importante para ubicar cada tema en segundos.
