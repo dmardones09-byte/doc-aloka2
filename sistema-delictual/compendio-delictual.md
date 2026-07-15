@@ -1,6 +1,7 @@
-# Compendio Delictual
-
+---
 ## Normativa Delictual
+icon: clipboard-list
+---
 
 Conceptos y reglas que debes conocer para desarrollar rol delictual sin romper escenas ni perjudicar a otros usuarios.
 
