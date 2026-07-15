@@ -1,10 +1,9 @@
 ---
 description: Accesos rápidos a las reglas clave del sistema delictual.+
 icon: clipboard-list
+---
 
 # Referencia rápida delictual
-
-## Referencia rápida delictual
 
 {% hint style="info" %}
 Usa esta página para encontrar rápido la norma correcta.
