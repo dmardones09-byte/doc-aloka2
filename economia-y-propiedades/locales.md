@@ -4,7 +4,7 @@ description: Normas generales para locales comerciales y sociales.
 
 # 🏪 Locales
 
-## Locales
+## Locales 
 
 Lee esta normativa antes de operar un local.
 
@@ -32,7 +32,7 @@ No se entregará dinero administrativo para recuperar fondos perdidos.
 4. Toda investigación relacionada con actividades delictivas debe registrarse en la **bitácora** del canal de **Discord** del local.
 5. Se exige actividad diaria del local. No necesitas hacer eventos todos los días, pero sí abrir y ofrecer productos o servicios al público con regularidad.
 6. Si el local permanece **inactivo** por más de **2 semanas** y sin aviso previo, será **retirado** sin derecho a reembolso.
-7. Todo movimiento de dinero, ya sea ingreso o retiro, debe quedar registrado en el **Discord** del local.
+
 
 ### Prohibido
 
@@ -41,3 +41,70 @@ No se entregará dinero administrativo para recuperar fondos perdidos.
 * Omitir registros de dinero o bitácoras delictuales.
 * Saltarse precios oficiales del negocio.
 * Dejar empleados de servicio estando AFK.
+
+
+### 📜 Normativa de Locales Ilegales
+
+1. Requisitos
+Todo local ilegal debe contar con un propietario autorizado por la administración.
+El local debe tener una historia (lore) y una actividad principal definida.
+Está prohibido utilizar el local únicamente para guardar armas o dinero.
+2. Rol Obligatorio
+Todas las ventas, compras o negociaciones deben realizarse mediante rol.
+Se debe utilizar /me y /do cuando la situación lo requiera.
+No está permitido aprovechar únicamente las mecánicas del servidor para evitar el rol.
+3. Actividades Permitidas
+
+Los locales podrán dedicarse, según su historia, a:
+
+* Lavado de dinero.
+* Venta de información.
+* Reuniones de organizaciones criminales.
+* Venta de mercancía ilegal (si el servidor lo permite).
+* Casas de apuestas clandestinas.
+* Casinos ilegales.
+* Talleres clandestinos.
+* Bares clandestinos.
+
+4. Actividades Prohibidas
+
+* Matar jugadores sin un motivo de rol.
+* Secuestrar clientes dentro del local sin un desarrollo previo del rol.
+* Acampar esperando víctimas.
+* Utilizar el local como zona segura durante persecuciones.
+* Almacenar cantidades irreales de armas o dinero sin justificación IC.
+
+5. Protección del Local
+
+* Los tiroteos deben tener un motivo de rol válido.
+* No se puede abrir fuego por ingresar accidentalmente al local.
+* Los enfrentamientos deben respetar las normas generales del servidor (Fear RP, Powergaming, Metagaming, etc.).
+
+6. Atención al Público
+
+* El propietario deberá atender a los clientes con un rol coherente.
+* No se permite vender productos sin interacción.
+* El local debe mantener un horario de funcionamiento razonable.
+
+7. Lavado de Dinero
+
+* Solo podrá realizarse mediante los sistemas autorizados por el servidor.
+* Está prohibido intercambiar dinero de forma OOC para simular lavado.
+
+8. Conflictos Entre Organizaciones
+
+* Los conflictos deberán desarrollarse mediante una historia de rol.
+* No se permite atacar un local únicamente para generar enfrentamientos.
+* Los secuestros, extorsiones o cobros de protección deben tener una justificación narrativa.
+
+9. Administración
+La administración podrá inspeccionar el local cuando sea necesario.
+El incumplimiento de esta normativa podrá derivar en:
+⚠️ Advertencia.
+💰 Multa IC.
+🔒 Cierre temporal del local.
+❌ Retiro definitivo de la propiedad.
+⛔ Sanciones administrativas según la gravedad.
+10. Objetivo
+
+El **propósito** de los **locales ilegales** es crear historias y fomentar un roleplay de calidad, **no obtener beneficios rápidos o generar conflictos sin fundamento**. Todas las actividades deben contribuir a una experiencia inmersiva y equilibrada para la comunidad.
