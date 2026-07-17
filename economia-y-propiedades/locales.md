@@ -49,10 +49,14 @@ No se entregará dinero administrativo para recuperar fondos perdidos.
 Todo local ilegal debe contar con un propietario autorizado por la administración.
 El local debe tener una historia (lore) y una actividad principal definida.
 Está prohibido utilizar el local únicamente para guardar armas o dinero.
+
+* **LOS EMPLEADOS TIENEN QUE SER DE SU MISMA ORGANIZACION NO SE PUEDE CONTRATAR A GENTE EXTERNA**
+
 2. Rol Obligatorio
 Todas las ventas, compras o negociaciones deben realizarse mediante rol.
 Se debe utilizar /me y /do cuando la situación lo requiera.
 No está permitido aprovechar únicamente las mecánicas del servidor para evitar el rol.
+
 3. Actividades Permitidas
 
 Los locales podrán dedicarse, según su historia, a:
